@@ -18,7 +18,19 @@ I'm looking for **software engineering internship opportunities**, including opp
 - **AI agents and automation** — using tools to carry out useful workflows.
 - **Retrieval evaluation** — exploring agentic versus conventional RAG for software engineering knowledge.
 
-## Featured project
+## Featured projects
+
+### [Adib Content Studio](https://github.com/swaggydib/adib-content-studio)
+
+A local-first workspace for drafting and reviewing content, with version-bound approvals and human-reviewed AI revision proposals.
+
+**Stack:** Next.js · React · TypeScript · SQLite
+
+**Engineering focus:** workflow state management, approval invalidation, bounded Hermes integration, and frozen publication snapshots after manual confirmation.
+
+Runs locally; no automatic social publishing.
+
+[Explore the project →](https://github.com/swaggydib/adib-content-studio)
 
 ### [Sustainify](https://github.com/swaggydib/Sustainify)
 
